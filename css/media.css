@@ -1,0 +1,295 @@
+@media (max-width:575px){
+    .col-xs-1{
+        width:8.3333%;
+    }
+    .col-xs-2{
+        width:16.6666%;
+    }
+    .col-xs-3{
+        width:25%;
+    }
+    .col-xs-4{
+        width:33.3333%;
+    }
+    .col-xs-5{
+        width:41.6666%;
+    }
+    .col-xs-6{
+        width:50%;
+    }
+    .col-xs-7{
+        width:58.3333%;
+    }
+    .col-xs-8{
+        width:66.6666%;
+    }
+    .col-xs-9{
+        width:75%;
+    }
+    .col-xs-10{
+        width:83.3333%;
+    }
+    .col-xs-11{
+        width:91.6666%;
+    }
+    .col-xs-12{
+        width:100%;
+    }
+    .container{
+        max-width:100%;
+    }
+    header{
+            padding: 10px  ;
+    }
+   
+}
+  
+@media (min-width:576px) and (max-width:767px) {
+    .col-sm-1{
+        width:8.3333%;
+    }
+    .col-sm-2{
+        width:16.6666%;
+    }
+    .col-sm-3{
+        width:25%;
+    }
+    .col-sm-4{
+        width:33.3333%;
+    }
+    .col-sm-5{
+        width:41.6666%;
+    }
+    .col-sm-6{
+        width:50%;
+    }
+    .col-sm-7{
+        width:58.3333%;
+    }
+    .col-sm-8{
+        width:66.6666%;
+    }
+    .col-sm-9{
+        width:75%;
+    }
+    .col-sm-10{
+        width:83.3333%;
+    }
+    .col-sm-11{
+        width:91.6666%;
+    }
+    .col-sm-12{
+        width:100%;
+    }
+    .container{
+        max-width: 540px;
+    }
+   
+}
+@media (min-width:768px) and (max-width:991px) {
+    .col-md-1{
+        width:8.3333%;
+    }
+    .col-md-2{
+        width:16.6666%;
+    }
+    .col-md-3{
+        width:25%;
+    }
+    .col-md-4{
+        width:33.3333%;
+    }
+    .col-md-5{
+        width:41.6666%;
+    }
+    .col-md-6{
+        width:50%;
+    }
+    .col-md-7{
+        width:58.3333%;
+    }
+    .col-md-8{
+        width:66.6666%;
+    }
+    .col-md-9{
+        width:75%;
+    }
+    .col-md-10{
+        width:83.3333%;
+    }
+    .col-md-11{
+        width:91.6666%;
+    }
+    .col-md-12{
+        width:100%;
+    }
+    .container{
+        max-width: 720px;
+    }
+}
+@media (min-width:992px) and (max-width:1199px) {
+    .col-lg-1{
+        width:8.3333%;
+    }
+    .col-lg-2{
+        width:16.6666%;
+    }
+    .col-lg-3{
+        width:25%;
+    }
+    .col-lg-4{
+        width:33.3333%;
+    }
+    .col-lg-5{
+        width:41.6666%;
+    }
+    .col-lg-6{
+        width:50%;
+    }
+    .col-lg-7{
+        width:58.3333%;
+    }
+    .col-lg-8{
+        width:66.6666%;
+    }
+    .col-lg-9{
+        width:75%;
+    }
+    .col-lg-10{
+        width:83.3333%;
+    }
+    .col-lg-11{
+        width:91.6666%;
+    }
+    .col-lg-12{
+        width:100%;
+    }
+    .container{
+        max-width: 960px;
+    }
+  
+}
+@media (min-width:1200px)  {
+    .col-xl-1{
+        width:8.3333%;
+    }
+    .col-xl-2{
+        width:16.6666%;
+    }
+    .col-xl-3{
+        width:25%;
+    }
+    .col-xl-4{
+        width:33.3333%;
+    }
+    .col-xl-5{
+        width:41.6666%;
+    }
+    .col-xl-6{
+        width:50%;
+    }
+    .col-xl-7{
+        width:58.3333%;
+    }
+    .col-xl-8{
+        width:66.6666%;
+    }
+    .col-xl-9{
+        width:75%;
+    }
+    .col-xl-10{
+        width:83.3333%;
+    }
+    .col-xl-11{
+        width:91.6666%;
+    }
+    .col-xl-12{
+        width:100%;
+    }
+    .container{
+        max-width: 1140px;
+    }
+
+    
+}
+
+  @media (max-width:991px){
+
+    nav ul li  {
+        display: none;
+      }
+      .toggle{
+        display: block;
+      }
+      header{
+        padding:10px ;
+      }
+      nav button {
+        display: none;
+      }
+      .new h2{
+        font-size: 30px;
+      }
+      .new{
+        margin: auto;
+      }
+      .new2 h2{
+        text-align: center;
+        font-size: 30px;
+      }
+      .new2 p{
+        text-align: center;
+        font-size: 12px;
+      }
+      
+      .bgcolor button{
+        margin: auto;
+      }
+      .bgcolor h2{
+        font-size: 30px;
+      }
+      .p-10{
+       padding: 10px; 
+      }
+      form .w-100{
+        margin: auto;
+      }
+  }
+  
+  @media (max-width:1199px) {
+  
+  }
+  
+  @media (max-width:767px) {
+ .bgcolor button{
+    margin: auto;
+    padding:15px;
+    display: block;
+    width: 100%;
+ }
+ 
+ section .padding {
+    margin: 0px 0px 10px;
+ }
+ .f-logo{
+    padding:25px ;
+ }
+ .help p{
+    padding: 25px 0;
+    text-align: center;
+ }
+ .office {
+    padding: 25px 0;
+ }
+ .b-25{
+    margin: auto;
+ }
+ 
+ .p-1{
+    padding: 15px;
+ }
+ .p-80{
+    padding-top: 200px;
+ }
+ 
+  }
