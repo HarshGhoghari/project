@@ -31,9 +31,30 @@
 #parent div img{
     object-fit: cover;
     margin: auto;
+    width: 250px;
 }
 .image-box h3,h2{
     text-align: center;
+    padding: 8px 0;
+}
+#parent .image-box{
+    background-color: rgb(223, 221, 221);
+    border: 1px solid black;
+    margin: auto;
+    padding: 60px;
+    border-radius: 10px;
+}
+#parent{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.image-box button{
+    display: block;
+    margin: auto;
+    padding: 8px 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 5px;
 }
 
 
